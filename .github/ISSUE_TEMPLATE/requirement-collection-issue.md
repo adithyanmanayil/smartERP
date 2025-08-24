@@ -1,13 +1,10 @@
 # Requirement Collection
 
+## Stakeholder
+- *stakeholder*
+
 ## Task
 *Collect requirements from the above stakeholder and document them.*
-
-**Stakeholder**
-- [ ] Admin
-- [ ] HOD
-- [ ] Faculty
-- [ ] Students
 
 ## Deliverables
 - [ ] List of functional requirements
