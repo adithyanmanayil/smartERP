@@ -4,7 +4,7 @@ import AppLogo from './src/assets/AppLogo';
 
 export default function App() {
   return (
-    <AppLogo />
+    <IntroScreen />
   );
 }
 
